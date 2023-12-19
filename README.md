@@ -13,7 +13,6 @@
         <li>Implements inheritance to establish a hierarchy of aid items, allowing shared properties in a base class and customization in derived classes.</li>
       </ul>
     </li>
-
     <li>
       <h3>Meticulous Memory Management:</h3>
       <ul>
@@ -21,7 +20,6 @@
         <li>Ensures proper memory handling, preventing memory leaks and enhancing overall application stability.</li>
       </ul>
     </li>
-
     <li>
       <h3>Robust File Handling with Object-Oriented Abstraction:</h3>
       <ul>
@@ -29,7 +27,6 @@
         <li>Enhances maintainability and extensibility through a modular approach to file handling.</li>
       </ul>
     </li>
-
     <li>
       <h3>Data Structures and Algorithms for Resource Allocation:</h3>
       <ul>
