@@ -4,7 +4,7 @@
   <p>The Aid Management Application is an object-oriented disaster relief application developed in C++. It employs meticulous memory management, robust file handling, and data structures and algorithms to optimize resource allocation and streamline data organization. Key object-oriented features such as polymorphism and inheritance enhance flexibility and extensibility.</p>
 
   <h2>Features</h2>
- 
+  
   <ul>
     <li>
       <h3>Unified Aid Management Interface with Polymorphism and Inheritance:</h3>
